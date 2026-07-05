@@ -54,11 +54,8 @@ PC に Python が入っていない、または PATH が通っていません。
 対処:
 
 Python をインストールしましょう。
-Pytho インストール とかで調べると色々記事が出るはず。
+Python インストール とかで調べると色々記事が出るはず。
 
-```powershell
-& "C:\Users\hiro1\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" .\generate_receipt.py --recipient "宛名" --amount 10000 --description "但し書き"
-```
 
 ### テンプレートが見つからない
 
